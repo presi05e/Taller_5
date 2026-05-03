@@ -5,7 +5,7 @@ public class Main {
     public static void mostrarMenu() {
         System.out.println("""
                 ========================================
-                     🎮 JUEGO DEL AHORCADO 🎮
+                    :/  JUEGO DEL AHORCADO :/
                 ========================================
                 1. Jugar
                 2. Instrucciones
@@ -33,7 +33,7 @@ public class Main {
     }
 
     public static boolean verificarEasterEgg(String nombre) {
-        return nombre.equals("XACARANA");
+        return nombre.equals("DIOS");
     }
 
     public static void jugar(ArrayList<Palabra> lista) {
@@ -48,7 +48,7 @@ public class Main {
             categorias.remove("SECRETOS");
         } else {
             System.out.println("""
-                    🎉 MODO DIOS ACTIVADO 🎉
+                     MODO DIOS ACTIVADO
                     ██████╗ ██████╗ ██████╗
                     ██╔══██╗██╔══██╗██╔══██╗
                     ██████╔╝██████╔╝██████╔╝
