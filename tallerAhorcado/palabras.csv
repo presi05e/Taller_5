@@ -1,0 +1,55 @@
+categoria,palabra,pista
+ANIMALES,leon,rey de la selva
+ANIMALES,tigre,felino con rayas
+ANIMALES,perro,mejor amigo del hombre
+ANIMALES,gato,doméstico felino
+ANIMALES,oso,mamifero con pelo
+ANIMALES,tiburon,pez gigante
+ANIMALES,pato,ave que vuela y nada
+ANIMALES,elefante,mamifero grande con trompa
+ANIMALES,delfin,mamifero marino inteligente
+ANIMALES,jirafa,mamifero con cuello largo
+ANIMALES,cebra,mamifero con rayas blancas y negras
+ANIMALES,serpiente, animal que se arrastra sobre la tierra y es venenoso
+ANIMALES,hormiga,insecto que vive en colonias
+ANIMALES,mariposa,insecto que nace de un capullo
+ANIMALES,mosca,insecto que mas enfermedades transmite y que es molesto
+ANIMALES,abeja,insecto que produce miel y polen
+ANIMALES,araña,animal que tiene 8 patas
+TECNOLOGIA,computador,maquina de trabajo mas usado en la actualidad
+TECNOLOGIA,internet,red global de aparatos electronicos
+TECNOLOGIA,televisor,aparato para ver canales 
+TECNOLOGIA,telefono,aparato mas usado para la comunicacion
+TECNOLOGIA,tablet,aparato mas grande que un celular y mas pequeño que una computadora
+TECNOLOGIA,camara,aparato para tomar fotografias
+TECNOLOGIA,videojuego,Formato electronico de entretenimiento 
+TECNOLOGIA,impresora,imprime documentos
+TECNOLOGIA,memoria,unidad de almacenamiento
+TECNOLOGIA,mouse,periferico para mover cursor
+TECNOLOGIA,pantalla,periferico para mostrar imagenes en una computadora
+TECNOLOGIA,teclado,periferico para escribir
+PAISES,colombia,tierra patria y querida
+PAISES,mexico,pais azteca
+PAISES,argentina,casa del mejor futbolista de la historia
+PAISES,chile,el pais mas largo del mundo
+PAISES,brasil,el pais mas grande de sudamerica
+PAISES,ecuador,su capital es quito
+PAISES,bolivia,pais cercano a peru sin salida al mar
+PAISES,estados unidos, pais con la estatua de la libertad
+PAISES,venezuela,pais que usa el bolivar como moneda
+PAISES,rusia,es el pais mas grande del mundo
+PAISES,china,pais que exporta mas productos y fabrica gran parte de las cosas del mundo
+PAISES,india,pais con la mayor cantidad de habitantes 
+PAISES,japon,pais del sol naciente  
+PAISES,francia,pais europeo famoso por la torre eiffel y su gastronomia
+PAISES,alemania,pais europeo famoso por su industria automotriz y su tecnologia
+PROGRAMACION,java,lenguaje de programacion usado en esta clase
+PROGRAMACION,python,lenguaje sencillo usado para scripts y ciencia de datos
+PROGRAMACION,javascript,lenguaje de programacion usado para el desarrollo web
+PROGRAMACION,Linux, sistema operativo mas usado en la programacion
+PROGRAMACION,redes de datos,es el campo de la informatica que se encarga de manejar y transmitir informacion
+PROGRAMACION,Github,es una de las plataformas mas grandes para el control de versiones de software
+PROGRAMACION,algoritmo,es un conjunto de instrucciones para resolver un problema
+PROGRAMACION,codigo,conjunto de instrucciones para resolver un problema
+PROGRAMACION,variable, es un espacio en memoria que se almacena informacion
+PROGRAMACION,funcion,es un bloque de codigo que se encarga de resolver un problema
