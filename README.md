@@ -141,7 +141,7 @@ Implementarlo en el método  `verificarEasterEgg(String nombre)`  que retorna  `
 ## ⦗📽️⦘ Diapositivas:
 
 >A continuación se encontraran las Diapositivas que contiene la exposición y la en esta la explicación oral a detalle del proyecto: 
->[Diapositivas](https://canva.link/25rd02rph8uwexk)
+>[Diapositivas](https://canva.link/gumecm0omlcb1ms)
 
 
 ## ⦗🗣⦘ Exposición:
