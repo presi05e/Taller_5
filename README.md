@@ -154,5 +154,5 @@ Implementarlo en el método  `verificarEasterEgg(String nombre)`  que retorna  `
 >`Luis Leonardo Rodriguez`
 
 >`Esteban Presiga Posada`
->
+
 >`Emanuel Tamayo Florez`
