@@ -71,7 +71,7 @@ public class Main {
 
         ArrayList<String> categorias = obtenerCategorias(lista);
         if (categorias.isEmpty()) {
-            System.out.println("❌ No hay categorías disponibles.");
+            System.out.println("No hay categorías disponibles.");
             return;
         }
 
@@ -105,7 +105,7 @@ public class Main {
 
         ArrayList<Palabra> filtradas = filtrarPorCategoria(lista, categoriaElegida);
         if (filtradas.isEmpty()) {
-            System.out.println("❌ No hay palabras en esta categoría.");
+            System.out.println("No hay palabras en esta categoría.");
             return;
         }
 
@@ -126,7 +126,7 @@ public class Main {
             String input = ConsoleInput.leerString("Letra o 'pista': ").trim();
 
             if (input.isEmpty()) {
-                System.out.println("⚠️ Debes ingresar algo.");
+                System.out.println("Debes ingresar algo.");
                 continue;
             }
 
@@ -136,26 +136,26 @@ public class Main {
             }
 
             if (input.length() > 1 && !input.equalsIgnoreCase("pista")) {
-                System.out.println("⚠️ Ingresa solo una letra.");
+                System.out.println("Ingresa solo una letra.");
                 continue;
             }
             char letra = input.charAt(0);
             if (!Character.isLetter(letra)) {
-                System.out.println("⚠️ Solo puedes ingresar letras.");
+                System.out.println("Solo puedes ingresar letras.");
                 continue;
             }
 
             if (juego.validarLetra(letra)) {
-                System.out.println("✅ Correcto");
+                System.out.println("Correcto");
             } else {
-                System.out.println("❌ Incorrecto");
+                System.out.println("Incorrecto");
             }
         }
 
         if (juego.estaCompleta()) {
-            System.out.println("\u001B[32m🎉 GANASTE\u001B[0m");
+            System.out.println("\u001B[32m GANASTE\u001B[0m");
         } else {
-            System.out.println("\u001B[31m💀 PERDISTE\u001B[0m");
+            System.out.println("\u001B[31m PERDISTE\u001B[0m");
             System.out.println("Palabra: " + seleccion.getPalabra());
         }
     }

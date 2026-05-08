@@ -25,7 +25,7 @@ public class ConsoleInput {
 
             } catch (NumberFormatException e) {
 
-                System.out.println("⚠️ Debes ingresar un número válido.");
+                System.out.println("Debes ingresar un número válido.");
             }
         }
     }
@@ -42,7 +42,7 @@ public class ConsoleInput {
 
                 if (input.length() != 1) {
 
-                    System.out.println("⚠️ Ingresa solo un carácter.");
+                    System.out.println("Ingresa solo un carácter.");
                     continue;
                 }
 
@@ -50,7 +50,7 @@ public class ConsoleInput {
 
             } catch (Exception e) {
 
-                System.out.println("⚠️ Error al leer carácter.");
+                System.out.println("Error al leer carácter.");
             }
         }
     }

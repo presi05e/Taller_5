@@ -33,7 +33,7 @@ public class Juego {
         letra = Character.toLowerCase(letra);
 
         if (letrasUsadas.contains(letra)) {
-            System.out.println("⚠️ Ya usaste esa letra");
+            System.out.println("Ya usaste esa letra");
             return true;
         }
 
@@ -131,11 +131,11 @@ public class Juego {
 
     public void usarPista(String pista) {
         if (!pistaUsada) {
-            System.out.println("💡 Pista: " + pista);
+            System.out.println("Pista: " + pista);
             errores++;
             pistaUsada = true;
         } else {
-            System.out.println("⚠️ Ya usaste la pista");
+            System.out.println("Ya usaste la pista");
         }
     }
 

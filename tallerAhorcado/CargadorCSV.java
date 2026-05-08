@@ -26,7 +26,7 @@ public class CargadorCSV {
                 String[] partes = linea.split(",");
 
                 if (partes.length < 3) {
-                    System.out.println("⚠️ Línea inválida: " + linea);
+                    System.out.println("Línea inválida: " + linea);
                     continue;
                 }
 
@@ -41,7 +41,7 @@ public class CargadorCSV {
 
         } catch (IOException e) {
 
-            System.out.println("❌ Error al leer el archivo CSV.");
+            System.out.println("Error al leer el archivo CSV.");
         }
 
         return lista;
